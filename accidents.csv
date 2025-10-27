@@ -1,0 +1,40 @@
+crash_date,damage,cause,num_units,injuries,crash_month,severity,location
+19-01-2024,Medium,Reckless overtaking,2,3,1,2,Pune
+03-02-2022,High,Rainy road,2,4,2,3,Mumbai
+03-07-2022,Low,Signal jumping,1,5,7,3,Delhi
+15-04-2022,High,Reckless overtaking,4,2,4,5,Chennai
+15-06-2023,High,Reckless overtaking,2,2,6,5,Bangalore
+03-10-2023,High,Signal jumping,4,2,10,2,Bangalore
+19-11-2023,High,Reckless overtaking,1,4,11,3,Jaipur
+12-08-2024,Low,Rainy road,4,5,8,5,Hyderabad
+30-12-2022,Low,Distracted driving,3,1,12,1,Chennai
+28-01-2023,High,Distracted driving,4,5,1,4,Mumbai
+30-12-2023,Low,Distracted driving,3,1,12,1,Kolkata
+26-06-2024,High,Drunk driving,2,3,6,2,Bangalore
+16-04-2023,Medium,Drunk driving,2,1,4,4,Jaipur
+16-01-2022,Low,Signal jumping,3,0,1,3,Mumbai
+23-03-2024,Low,Rainy road,1,1,3,3,Chennai
+22-03-2022,Low,Distracted driving,1,3,3,2,Jaipur
+01-05-2024,High,Over-speeding,3,4,5,3,Chennai
+28-05-2023,Medium,Distracted driving,1,0,5,3,Chennai
+12-08-2023,Medium,Rainy road,1,1,8,3,Mumbai
+27-07-2023,Low,Distracted driving,3,2,7,4,Delhi
+17-10-2024,Low,Drunk driving,4,2,10,2,Bangalore
+21-01-2023,Low,Distracted driving,1,1,1,3,Hyderabad
+09-10-2023,High,Rainy road,4,0,10,4,Pune
+17-01-2023,Medium,Over-speeding,2,4,1,1,Mumbai
+27-10-2023,Medium,Rainy road,4,0,10,3,Bangalore
+01-01-2022,High,Reckless overtaking,2,5,1,5,Chennai
+27-03-2022,Medium,Rainy road,1,1,3,4,Jaipur
+30-05-2022,High,Distracted driving,4,1,5,3,Jaipur
+04-02-2024,High,Rainy road,3,4,2,2,Kolkata
+08-06-2023,Low,Distracted driving,4,2,6,4,Mumbai
+30-03-2023,Medium,Over-speeding,4,1,3,4,Bangalore
+01-08-2023,High,Reckless overtaking,4,5,8,4,Jaipur
+07-11-2024,High,Distracted driving,1,5,11,4,Pune
+08-06-2022,Medium,Signal jumping,2,4,6,2,Bangalore
+01-09-2024,Low,Distracted driving,2,2,9,4,Bangalore
+02-04-2022,Medium,Signal jumping,3,0,4,1,Mumbai
+07-12-2023,Low,Reckless overtaking,1,4,12,2,Mumbai
+11-03-2023,Medium,Distracted driving,2,3,3,2,Pune
+03-01-2024,Medium,Rainy road,1,4,1,2,Hyderabad
